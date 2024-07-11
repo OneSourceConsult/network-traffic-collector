@@ -1,4 +1,4 @@
-# Injection Mechanism
+# Network Traffic Collector
 Network traffic collector
 
 ## Information
